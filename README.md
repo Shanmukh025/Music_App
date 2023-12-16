@@ -9,7 +9,7 @@ A complete music player with playlist options. In this project the UI of old uni
 1. Play Music option
 2. Browse Songs by Albums
 3. Browse songs by artist
-4. Play list
+4. Playlists:
    1. Add and remove songs to playlist
    2. Create and delete playlist
 5. App widget to play the playlist
